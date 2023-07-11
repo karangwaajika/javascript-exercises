@@ -1,5 +1,5 @@
 const helloWorld = function() {
-  return ''
+  return 'Ajika is the man!';
 };
 
 module.exports = helloWorld;
